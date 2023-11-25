@@ -1,0 +1,6 @@
+
+@media (max-width : 600px) {
+  .container_menu > h1{
+    font-size: 30px;
+  }
+}

@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+:root{
+  --colorDefault : #000000;
+  --colorTwo: #1FFFA9;
+  --colorTree : #fff;
+  --colorFour : #515151;
+}
+*{
+  background-color: var(--colorDefault);
+  margin : 0;
+  padding: 0;
+  box-sizing: border-box;
+  color : var(--colorTree);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
